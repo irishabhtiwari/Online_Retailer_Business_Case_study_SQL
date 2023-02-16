@@ -16,7 +16,7 @@ company to maintain the database to navigate and store the employee-, customer- 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> ⚡️ Business Objectives</h2>
-</b> In this case sudy, suppose you are a data analyst working at this company. Here, you are only focusing on the SQL queries to get an idea of the company’s sales. Now, let’s understand the process and structure of the database that the company is using.
+</b> In this case sudy, suppose you are a data analyst working at this company. Here, you are only focusing on the SQL queries to get an idea of the company’s sales. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
